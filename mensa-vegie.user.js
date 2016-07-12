@@ -1,7 +1,7 @@
 // ==UserScript==
 // @id		MensaGoettingenVegieFilter
 // @name        Vegie Filter (Mensa Göttingen, nicht-offiziell)
-// @namespace   http://www.diasp.de/u/rosievers
+// @namespace   http://github.com/rosievers
 // @description Removes most non-vegetarian foods from the mensa overview. 	
 // @author	Rolf Sievers
 // @include     http://www.studentenwerk-goettingen.de/speiseplan.html*
